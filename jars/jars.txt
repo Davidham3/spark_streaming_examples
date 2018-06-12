@@ -1,0 +1,8 @@
+spark-assembly-1.6.3-hadoop2.6.0.jar
+spark-streaming-kafka_2.10-1.6.3.jar
+scala-library-2.10.6.jar
+slf4j-api-1.7.25.jar
+kafka-clients-0.8.2.1.jar
+kafka_2.10-0.8.1.1.jar
+zkclient-0.10.jar
+metrics-core-2.2.0.jar
